@@ -1,0 +1,1 @@
+{"rustc":2710040094460752720,"features":"","target":0,"profile":0,"path":0,"deps":[[12442452695701078010,"build_script_build",false,16963595649078808357]],"local":[{"RerunIfChanged":{"output":"debug\\build\\kv-3b53441c0298f9fa\\output","paths":["build.rs","abi.proto"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
